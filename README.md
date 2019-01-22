@@ -42,3 +42,5 @@
 
 	>>> from IPython.display import Image
 	>>> Image("image_new.png")
+
+![](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/06/prediction-768x223.png)
