@@ -1,4 +1,4 @@
-# Object detection model
+# Object detection module Installation Guide
 
 	conda create -n retinanet python=3.6 anaconda
 #Create an Anaconda environment with python version 3.6.
