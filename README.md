@@ -43,4 +43,4 @@
 	>>> from IPython.display import Image
 	>>> Image("image_new.png")
 
-![](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2018/06/prediction-768x223.png)
+![](<a href="https://ibb.co/bvCM7qC"><img src="https://i.ibb.co/fNyzQBy/output-zl-Odx-A.gif" alt="output-zl-Odx-A" border="0"></a><br /><a target='_blank' href='https://aluminumsulfate.net/ammonium-sulfate'>nh4 2so4 formula name</a><br />)
