@@ -43,4 +43,5 @@
 	>>> from IPython.display import Image
 	>>> Image("image_new.png")
 
-!https://s2.gifyu.com/images/output_zlOdxA.gif
+![Space exploration](https://s2.gifyu.com/images/output_zlOdxA.gif
+?raw=true "Exploring mars using artifical intelligence")
