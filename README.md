@@ -42,5 +42,5 @@
 
 	>>> from IPython.display import Image
 	>>> Image("image_new.png")
-
+![](https://github.com/mj555/modules/blob/master/imagenew.png)
 ![](https://github.com/mj555/modules/blob/master/output_GLK8jZ(1).gif)
