@@ -42,7 +42,11 @@
 
 	>>> from IPython.display import Image
 	>>> Image("image_new.png")
+	
+	
 ![](https://github.com/mj555/modules/blob/master/prediction.png)
+
+![](https://github.com/mj555/modules/blob/master/imagenew.jpg)
 
 
 
